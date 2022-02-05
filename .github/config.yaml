@@ -1,0 +1,3 @@
+server: registry.int.prod.aserto.com
+username: stefan-demo
+repo: stefan-demo/policy-peoplefinder-abac-int
